@@ -9,10 +9,10 @@
 		<version>3.3.1</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>KG20294730.capstone.CAT</groupId>
-	<artifactId>KG20294730_CAT</artifactId>
+	<groupId>kg20294730.capstone.cat</groupId>
+	<artifactId>kg20294730_cat</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CAT</name>
+	<name>cat</name>
 	<description>CustumerAccTracker</description>
 	<url />
 	<licenses>
